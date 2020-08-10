@@ -1,0 +1,1 @@
+# usar a função randômica. 0 e 1 é exclusivo, eta função não gera o zero e nem 1
